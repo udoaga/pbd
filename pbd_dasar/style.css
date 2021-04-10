@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+		
+				
+			body {text-align: left;
+				color: green;
+				background-color: green;
+				background-image: url(../bg.jpg);
+				background-position: center;
+ 				background-repeat: no-repeat;
+ 				background-size: cover;
+				background-attachment:fixed;
+				font-family: Georgia, Times, serif;
+				line-height: 1.4em;
+				margin: 0px;}
+			
+			table { background-color:yellow;
+				color: green;
+				align-content: center;
+				text-align: center;
+				margin-right: auto;
+				margin-left: auto;
+				align-items: center;}
+		
+
